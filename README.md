@@ -1,7 +1,7 @@
 # World's Worst Hello World
 This is a random thing that I made in one day for no reason.
 
-#### The goal: to use as many languages as possible to make a simple "Hello World" message.
+#### The goal: to make a simple "Hello World" message but every letter is a different programming language.
 
 If you (for some reason) want to run this, go to the cloned folder and type in these commands:
 
